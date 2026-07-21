@@ -12,11 +12,10 @@ const projects = [
     id: "letsappli",
     title: "letsA(ppl)I",
     subtitle: "Multi-Phase AI Orchestration System",
-    tech: ["Python", "Flask", "TypeScript", "LLM Adapters"],
+    tech: ["Python", "FastAPI", "React", "TypeScript"],
     description:
       "A career exploration tool that uses deterministic pipelines and language guardrails to interpret job market data with high integrity.",
     href: "/projects/letsappli",
-    image: "/projects/letsappli-thumb.png",
   },
 ] as const;
 

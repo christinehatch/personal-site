@@ -28,7 +28,9 @@ export default function LetsAppliPage() {
 
         <div className="mt-8 flex flex-wrap gap-3 pl-4 text-sm">
           <a
-            href="#"
+            href="https://christinehatch-letsappli-app.vercel.app/"
+            target="_blank"
+            rel="noreferrer"
             className="rounded-md bg-purple-600 px-4 py-2 font-medium text-white transition-colors hover:bg-purple-500"
           >
             Launch_System

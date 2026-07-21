@@ -21,9 +21,12 @@ export default function ProjectsLayout({
             OpenFlights Explorer
           </Link>
 
-          <span className="px-3 py-2 text-sm text-gray-400">
-            (more coming)
-          </span>
+          <Link
+            href="/projects/letsappli"
+            className="rounded px-3 py-2 text-sm hover:bg-gray-100"
+          >
+            letsA(ppl)I
+          </Link>
         </nav>
       </aside>
 
